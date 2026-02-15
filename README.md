@@ -136,12 +136,12 @@ ________________________________________
 Sample Output
 "Description_pt": 
 "O maior resort durante todo o ano da área oferecendo mais de tudo..."
-📈 Impact
+Impact
 •	Added Portuguese language coverage
 •	Enabled localized search
 •	Expanded international booking reach
 ________________________________________
-📍 4. Geo-Spatial Search Optimization
+ 4. Geo-Spatial Search Optimization
 Filter by Distance
 $filter=geo.distance(Location, 
 geography'POINT(2.294481 48.858370)') le 5
